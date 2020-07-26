@@ -1,0 +1,7 @@
+C:\Users\Алексей\source\repos\wcfPictureFlip\wcfPictureFlip\bin\Debug\wcfPictureFlip.pdb
+C:\Users\Алексей\source\repos\wcfPictureFlip\wcfPictureFlip\obj\Debug\wcfPictureFlip.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\wcfPictureFlip\wcfPictureFlip\obj\Debug\wcfPictureFlip.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\wcfPictureFlip\wcfPictureFlip\obj\Debug\wcfPictureFlip.pdb
+C:\Users\Алексей\source\repos\wcfPictureFlip\wcfPictureFlip\bin\Debug\wcfPictureFlip.exe.config
+C:\Users\Алексей\source\repos\wcfPictureFlip\wcfPictureFlip\bin\Debug\wcfPictureFlip.exe
+C:\Users\Алексей\source\repos\wcfPictureFlip\wcfPictureFlip\obj\Debug\wcfPictureFlip.exe
